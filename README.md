@@ -24,6 +24,3 @@
 
 ***
 <p align="right">-----by Yabbeypsc</p>
-
-***
-![百度](https://img0.baidu.com/it/u=4006401976,1341384820&fm=253&fmt=auto&app=120&f=JPEG?w=500&h=667)
